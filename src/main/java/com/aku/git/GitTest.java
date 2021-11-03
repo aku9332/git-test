@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("紧急修复成功");
         System.out.println("快去请如来佛祖");
         System.out.println("紧急修复成功2");
+        System.out.println("push test");
     }
 }
